@@ -1,0 +1,57 @@
+Source,/Users/locutus/Dropbox/Electronics/Tic-Tac-Toe Arduino/Tic-Tac-Toe Arduino.sch
+Kicad Rev,Eeschema 4.0.3-stable
+Generated Date,Saturday, August 13, 2016 'PMt' 07:25:39 PM
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+D2,LED,device,LED
+D12,LED,device,LED
+D4,LED,device,LED
+D11,LED,device,LED
+D18,LED,device,LED
+D6,LED,device,LED
+D5,LED,device,LED
+D15,LED,device,LED
+D16,LED,device,LED
+D1,LED,device,LED
+D19,LED,device,LED
+D7,LED,device,LED
+D13,LED,device,LED
+D10,LED,device,LED
+D9,LED,device,LED
+D3,LED,device,LED
+D17,LED,device,LED
+D20,LED,device,LED
+SW5,SW_PUSH,device,SW_PUSH
+SW6,SW_PUSH,device,SW_PUSH
+SW7,SW_PUSH,device,SW_PUSH
+SW8,SW_PUSH,device,SW_PUSH
+SW9,SW_PUSH,device,SW_PUSH
+SW10,SW_PUSH,device,SW_PUSH
+SW2,SW_PUSH,device,SW_PUSH
+SW3,SW_PUSH,device,SW_PUSH
+SW4,SW_PUSH,device,SW_PUSH
+R15,120K,device,R
+R14,120K,device,R
+R13,120K,device,R
+R12,120K,device,R
+R11,120K,device,R
+R1,100R,device,R
+R2,100R,device,R
+R6,100R,device,R
+R5,100R,device,R
+R9,100R,device,R
+R7,100R,device,R
+R8,100R,device,R
+R4,100R,device,R
+R3,100R,device,R
+D14,LED,device,LED
+D8,LED,device,LED
+SW1,SW_PUSH,device,SW_PUSH
+R10,100R,device,R
+SW11,Switch_SPDT_x2,device,Switch_SPDT_x2
+P1,CONN_01X10,conn,CONN_01X10
